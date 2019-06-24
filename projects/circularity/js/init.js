@@ -30,6 +30,7 @@ var circles = [];   // variable to store all circles in one Array
     physikz.addRandomVelocity(circle, canvas);
     view.addChild(circle);
     circles.push(circle);
+    
 }
 
         // TODO 3 : Call the drawCircle function 5 times //
